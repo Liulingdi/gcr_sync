@@ -1,6 +1,3 @@
-###before_install:
-###- openssl aes-256-cbc -K $encrypted_1fc90f464345_key -iv $encrypted_1fc90f464345_iv
-###  -in config.tar.gz.enc -out config.tar.gz -d
 sudo: required
 language: python
 python:
